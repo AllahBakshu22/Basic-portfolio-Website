@@ -1,0 +1,131 @@
+body{
+  color: #40514E;
+  margin: 0;
+  text-align:center;
+  font-family: 'Merriweather', serif;
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Nova Square', sans-serif;
+  font-weight: normal;
+}
+
+h1{
+  color:#009900aa;
+  margin:0 auto 0 auto;
+  font-size:60px;
+  font-family: 'Nova Square', serif;
+  line-height: 2;
+  padding: 10px;
+}
+h2{
+  color:lightgreen;
+  margin-top:0;
+font-family: 'Merriweather', sans-serif ;
+font-size: 2.5em;
+font-weight: normal;
+}
+h3{
+  color:#80aaff;
+  margin-top:0;
+font-family: 'Merriweather', sans-serif ;
+}
+.top-container{
+  background-color:#A0E9FF;
+  position: relative;
+padding: 100px;
+}
+.middle-container{
+  margin: 100px 0;
+}
+.bottom-container{
+  background-color:#66BFBf;
+  padding: 50px 0 20px;
+}
+.stu{
+  text-decoration: underline;
+}
+.skill-row{
+  width:50%;
+margin:100px auto 100px auto;
+ text-align: left;
+ line-height: 2;
+}
+.bottom-cloud{
+position: absolute;
+display: inline-block;
+left:250px;
+bottom:370px;
+}
+.top-cloud{
+  position: absolute;
+  right:140px;
+  top:50px;
+left: 800px;
+}
+.tool{
+  width:25%;
+  float:left;
+ margin-right: 30px;
+}
+.toolbar{
+ width:25%;
+ float:right;
+   margin-right: 30px;
+}
+.Description1{
+  clear: left;
+}
+.Description2{
+  clear: right;
+}
+.intro{
+  width: 30%;
+  margin:auto;
+}
+.hr{
+  border: dotted  #ccccb3 6px;
+  border-bottom: none;
+  width:4%;
+  margin:100px auto;
+}
+.Bakshu{
+  height: 250px;
+}
+.contactdesc{
+  width:40%;
+  margin:40px auto 60px;
+}
+.btn{
+
+
+
+	background-color:#44c767;
+	border-radius:17px;
+	border:1px solid #18ab29;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	padding:11px 33px;
+	text-decoration:none;
+}
+.myButton:hover {
+	background-color:#5cbf2a;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+.footer-link{
+  color: #11999E;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+a:hover{
+  color:#EAF6F6;
+}
+.copyright{
+  color:#EAF6F6;
+  padding:20px 0px;
+  font-size: 0.75em;
+}
